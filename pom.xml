@@ -8,7 +8,7 @@
 	<url>http://maven.apache.org</url>
 	
 	<scm>
-    <developerConnection>scm:git:https://github.com/shail1991/new</developerConnection>
+    <developerConnection>scm:git:https://github.com/shail1991/version</developerConnection>
     <tag>myweb-0.0.7-SNAPSHOT</tag>
   </scm>
 
