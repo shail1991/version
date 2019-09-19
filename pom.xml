@@ -7,7 +7,15 @@
 	<version>0.0.7-SNAPSHOT</version>
 	<name>my-app</name>
 	<url>http://maven.apache.org</url>
+<<<<<<< HEAD
 
+=======
+	
+	<scm>
+    <developerConnection>scm:git:https://github.com/shail1991/version</developerConnection>
+    </scm>
+	
+>>>>>>> 9dfb0ca207956f9c2a63078eddc8601cd8f22219
 	<dependencies>
 		<dependency>
 		    <groupId>org.apache.poi</groupId>
