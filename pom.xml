@@ -3,13 +3,13 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.11-SNAPSHOT</version>
+	<version>0.0.9</version>
 	<name>my-app</name>
 	<url>http://maven.apache.org</url>
 	
 	<scm>
     <developerConnection>scm:git:https://github.com/shail1991/version</developerConnection>
-      <tag>myweb-0.0.10-SNAPSHOT</tag>
+      <tag>myweb-0.0.9</tag>
   </scm>
 	
 	<dependencies>
