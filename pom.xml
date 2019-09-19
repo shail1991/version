@@ -1,4 +1,5 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>in.javahome</groupId>
 	<artifactId>myweb</artifactId>
@@ -6,11 +7,6 @@
 	<version>0.0.7-SNAPSHOT</version>
 	<name>my-app</name>
 	<url>http://maven.apache.org</url>
-	
-	<scm>
-    <developerConnection>scm:git:https://github.com/shail1991/version</developerConnection>
-    <tag>myweb-0.0.7-SNAPSHOT</tag>
-  </scm>
 
 	<dependencies>
 		<dependency>
@@ -44,7 +40,7 @@
 		    <url>http://172.31.15.236:8081/repository/maven-releases/</url>
 		</repository>
   	</distributionManagement>
-
+	
 <build>
     <plugins>
         <plugin>
